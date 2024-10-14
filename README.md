@@ -20,7 +20,7 @@ Before running the bot, ensure you have the following installed:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/whatsapp-automation.git
+   git clone [https://github.com/yourusername/whatsapp-automation.git](https://github.com/TechZainShahzad/Whatsapp-Automation)
    cd whatsapp-automation
    ```
 
